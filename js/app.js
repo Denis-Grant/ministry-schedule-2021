@@ -13,6 +13,9 @@ const themeArr = [3,8,13,18];
 const refArr = [4,9,14,19];
 const overseersArr = [5,10,15,20];
 const linkArr = [6,11,16,21];
+let timeStr;
+const weekTime = '11am / 6.30pm';
+const weekEnd = '2pm';
 // Media Query
 let mq = window.matchMedia('(min-width: 920px)');
 
@@ -210,10 +213,16 @@ main.innerHTML +=
 </div>`;
 
 for (x = 0; x < 4; x++) {
+    if (x != 3){
+        timeStr = weekTime;
+    } else 
+    {
+        timeStr = weekEnd;
+    }
     main.innerHTML += `<div class="wrapper">
         <div class="monday">
             <p>${data[weekArr[w]][dayArr[x]].day}</p>
-            <p>11am / 6.30pm</p>
+            <p>${timeStr}</p>
         </div>
         <div class="theme">
             <a href='${data[weekArr[w]][linkArr[x]].link}'><h3>${data[weekArr[w]][themeArr[x]].theme}</h3>
