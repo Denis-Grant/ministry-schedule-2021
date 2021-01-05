@@ -146,7 +146,7 @@ const data = {
             {day: 'Saturday'},
             {theme: ''},
             {ref: ''},
-            {overseers: 'D Grant'},
+            {overseers: 'A Osafo'},
             {link: ''}
         ],
         wk5:  [
@@ -156,7 +156,7 @@ const data = {
             {day: 'Monday'},
             {theme: 'Bible Teachings​—Timeless Wisdom!'},
             {ref: '- wp18 No. 1 pp. 4-7'},
-            {overseers: 'A Osafo / D Grant'},
+            {overseers: 'W Davies / D Grant'},
             {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2018019'},
  
             {day: 'Wednesday'},
