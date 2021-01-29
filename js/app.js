@@ -57,7 +57,7 @@ const data = {
             {theme: 'When a Loved One Dies!'},
             {ref: '- wp19 No. 2 pp. 6-7'},
             {overseers: 'R Santiago / W Davies'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2018091#h=1:0-24:0'},
+            {link: 'https://www.jw.org/en/library/magazines/watchtower-no2-2019-may-jun/when-your-loved-one-dies/'},
 
             {day: 'Saturday'},
             {theme: ''},
