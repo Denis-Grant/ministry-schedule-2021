@@ -22,12 +22,12 @@ let mq = window.matchMedia('(min-width: 920px)');
 
 
 const heading = [
-    {month: "january 2021"},
-    {text: '"The scene of this world is changing." - 1 Cor 7:31 '}
+    {month: "february 2021"},
+    {text: '"And I saw another angel flying in midheaven, and he had good news to declare." - Rev 14:6'}
 ];
-// DATES 
+// DATES - The number of date entries dictates the number of weeks looped! 
 const dates = [
-    '28/12','04/01','11/01','18/01','25/01'
+    '01/02','08/02','15/02','22/02'
 ];
 
 // const info = [
@@ -38,54 +38,54 @@ const dates = [
 const data = {
         
         wk1: [
-            {week: '28/12'},
-            {topic: 'The Future'},
+            {week: '01/02'},
+            {topic: 'Coping With Tragedy'},
 
             {day: 'Monday'},
-            {theme: 'How Do You View the Future?'},
-            {ref: 'Tract'},
-            {overseers: 'A Osafo / D Moore'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/1102012770'} ,
+            {theme: 'Does God Care About Our Suffering?'},
+            {ref: '- w13 7/1 pp. 14-15'},
+            {overseers: 'D Grant / A Osafo'},
+            {link: 'https://www.jw.org/en/library/magazines/wp20130701/does-god-care/'} ,
 
             {day: 'Wednesday'},
-            {theme: 'The Truth About the Future!'},
-            {ref: '- wp20 No. 1 pp.14-15'},
+            {theme: 'A Real Hope for a Better Tomorrow!'},
+            {ref: '- ijwbt article 17'},
             {overseers: 'S Baccas / H Neal'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2020006#h=1:0'},
+            {link: 'https://www.jw.org/en/bible-teachings/peace-happiness/real-hope-future-bible-promises/'},
 
             {day: 'Friday'},
-            {theme: 'Your Future, Your Choice!'},
-            {ref: '- wp18 No. 2 p. 14'},
+            {theme: 'When a Loved One Dies!'},
+            {ref: '- wp19 No. 2 pp. 6-7'},
             {overseers: 'R Santiago / W Davies'},
             {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2018091#h=1:0-24:0'},
 
             {day: 'Saturday'},
             {theme: ''},
             {ref: ''},
-            {overseers: 'D Griffiths'},
+            {overseers: 'T Boland Jr'},
             {link: ''}
         ],
         wk2:  [
-            {week: '04/01'},
-            {topic: 'Prayer'},
+            {week: '08/01'},
+            {topic: 'Offering Bible Studies'},
 
             {day: 'Monday'},
-            {theme: 'Does God Hear Our Prayers?'},
-            {ref: '- wp21 No. 1 pp. 5-7'},
-            {overseers: 'D Grant / T Boland Jr'},
-            {link: 'https://www.jw.org/en/library/magazines/watchtower-no1-2021-jan-feb/does-god-hear-our-prayers/'},
+            {theme: 'What Is a Bible Study?'},
+            {ref: '- jw.org > About Us > FAQ'},
+            {overseers: 'D Grant / D Griffiths'},
+            {link: 'https://www.jw.org/en/jehovahs-witnesses/faq/what-is-a-bible-study/'},
  
             {day: 'Wednesday'},
-            {theme: 'Why Does God Not Answer All Prayers?'},
-            {ref: '- wp21 No. 1 pp. 8-9'},
+            {theme: 'Why Study the Bible?'},
+            {ref: '- wp 2015 04/01 | Cover Subject'},
             {overseers: 'S Baccas / H Neal'},
-            {link: 'https://www.jw.org/en/library/magazines/watchtower-no1-2021-jan-feb/why-does-god-not-answer-all-prayers/'},
+            {link: 'https://www.jw.org/en/library/magazines/wp20150401/why-study-bible/'},
   
             {day: 'Friday'},
-            {theme: 'What Prayers Can Do for You?'},
-            {ref: '- wp21 No. 1 pp. 14-15'},
+            {theme: "Must I Become One of JW's if I Study With Them?"},
+            {ref: '- jw.org > About Us > FAQ'},
             {overseers: 'P Wu / C Yalley'},
-            {link: 'https://www.jw.org/en/library/magazines/watchtower-no1-2021-jan-feb/what-prayers-can-do-for-you/'},
+            {link: 'https://www.jw.org/en/jehovahs-witnesses/faq/jw-bible-study/'},
       
             {day: 'Saturday'},
             {theme: ''},
@@ -94,59 +94,59 @@ const data = {
             {link: ''}
         ],
         wk3: [
-            {week: '11/01'},
-            {topic: 'Keys to Personal Success'},
+            {week: '15/01'},
+            {topic: 'Why Believe in God?'},
 
             {day: 'Monday'},
-            {theme: 'Keep Money in Its Place!'},
-            {ref: '- g 11/08 p.6'},
-            {overseers: 'D Grant / D Griffiths'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/102008403#h=4'} ,
+            {theme: 'Does God Exist?'},
+            {ref: '- ijwbq article 78'},
+            {overseers: 'A Osafo / D Griffiths'},
+            {link: 'https://www.jw.org/en/bible-teachings/questions/does-god-exist/'} ,
 
             {day: 'Wednesday'},
-            {theme: 'Be Conscious of Your Spiritual Need!'},
-            {ref: '- g 11/08 pp. 6-9'},
+            {theme: 'Is Belief in God Reasonable?'},
+            {ref: '- g 2010 02'},
             {overseers: 'S Baccas / H Neal'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/102008403#h=26'},
+            {link: 'https://www.jw.org/en/library/magazines/g201002/Is-Belief-in-God-Reasonable/'},
 
             {day: 'Friday'},
-            {theme: 'Forgive Freely!'},
-            {ref: '- g 11/08 p. 7-8'},
+            {theme: 'How Can You Know God Personally?'},
+            {ref: "- jw.org ><br>Bible Teachings > Q's Answered"},
             {overseers: 'R Santiago/ C Yalley'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/102008403#h=13'},
+            {link: 'https://www.jw.org/en/bible-teachings/questions/knowing-god-personally-get-closer/'},
 
             {day: 'Saturday'},
             {theme: ''},
             {ref: ''},
-            {overseers: 'S Baccas'},
+            {overseers: 'D Grant'},
             {link: ''}
         ],
         wk4:  [
-            {week: '18/01'},
-            {topic: 'Science & Technology'},
+            {week: '22/01'},
+            {topic: 'Bible Questions Answered'},
 
             {day: 'Monday'},
-            {theme: 'How Long Can You Live?'},
-            {ref: '- g 8/13 p. 6'},
+            {theme: 'Peace on Earth—How Will It Come?'},
+            {ref: "- jw.org ><br>Bible Teachings > Q's Answered"},
             {overseers: 'D Grant / D Moore'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/102013284#h=1:0-49:0'},
+            {link: 'https://www.jw.org/en/bible-teachings/questions/peace-on-earth-how/'},
  
             {day: 'Wednesday'},
-            {theme: 'Seeing Is Believing!'},
-            {ref: '- w08 5/1 p. 3'},
+            {theme: 'What Is the Meaning of Life?'},
+            {ref: "- jw.org ><br>Bible Teachings > Q's Answered"},
             {overseers: 'S Baccas H Neal'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2008320#h=1:0-14:0'},
+            {link: 'https://www.jw.org/en/bible-teachings/questions/meaning-of-life/'},
   
             {day: 'Friday'},
-            {theme: 'Are Science and the Bible Compatible?'},
-            {ref: '- g 2/11 pp. 22-23'},
+            {theme: 'What Does the Bible Say About Pandemics?'},
+            {ref: "- jw.org ><br>Bible Teachings > Q's Answered"},
             {overseers: 'P Wu / T Boland Jr'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/102011049#h=1:0-25:0'},
+            {link: 'https://www.jw.org/en/bible-teachings/questions/bible-about-pandemics-disease/'},
       
             {day: 'Saturday'},
             {theme: ''},
             {ref: ''},
-            {overseers: 'A Osafo'},
+            {overseers: 'C Yalley'},
             {link: ''}
         ],
         wk5:  [
