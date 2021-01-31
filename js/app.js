@@ -292,8 +292,10 @@ dates.forEach((weekNumber, w)=>{
         <p >${data[weekArr[w]][18].theme}</p>
         <em>${data[weekArr[w]][19].ref}</em>
         <footer>${data[weekArr[w]][20].overseers}</footer>
-    </div><div class="bg-orange flex-align">     
-    </div>`
+    </div>
+        <a href="img/current-month.pdf" class='combined bg-orange'>
+          
+        </a>`
 });
 // DYNAMICALLY INSERT ID'S
 let allClasses = document.getElementsByClassName('topbar');
