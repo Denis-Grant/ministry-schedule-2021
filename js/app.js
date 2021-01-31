@@ -237,8 +237,8 @@ for (x = 0; x < 4; x++) {
 
 main.innerHTML += `
 <div class="monday mb-60">
-            <p>Sunday</p>
-            <span style='font-size: 1rem; '>Group Overseers</span>
+            <a href="img/current-month.pdf" style='color: white'><p>Sunday</p></a>
+            <a href="img/current-month.pdf" style='color: white'><span style='font-size: 1rem; display:block'>Group Overseers</span></a>
         </div>`
       
 });
