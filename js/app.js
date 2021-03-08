@@ -22,12 +22,12 @@ let mq = window.matchMedia('(min-width: 920px)');
 
 
 const heading = [
-    {month: "february 2021"},
-    {text: '"And I saw another angel flying in midheaven, and he had good news to declare." - Rev 14:6'}
+    {month: "march 2021"},
+    {text: '"Keep doing this in remembrance of me." - Luke 22:19'}
 ];
 // DATES - The number of date entries dictates the number of weeks looped! 
 const dates = [
-    '01/02','08/02','15/02','22/02'
+    '08/03','15/03','22/03','29/03'
 ];
 
 // const info = [
@@ -38,110 +38,110 @@ const dates = [
 const data = {
         
         wk1: [
-            {week: '01/02'},
-            {topic: 'Coping With Tragedy'},
+            {week: '08/03'},
+            {topic: 'MEMORIAL: Inviting Relatives'},
 
             {day: 'Monday'},
-            {theme: 'Does God Care About Our Suffering?'},
-            {ref: '- w13 7/1 pp. 14-15'},
-            {overseers: 'D Grant / A Osafo'},
-            {link: 'https://www.jw.org/en/library/magazines/wp20130701/does-god-care/'} ,
-
-            {day: 'Wednesday'},
-            {theme: 'A Real Hope for a Better Tomorrow!'},
-            {ref: '- ijwbt article 17'},
-            {overseers: 'S Baccas / H Neal'},
-            {link: 'https://www.jw.org/en/bible-teachings/peace-happiness/real-hope-future-bible-promises/'},
-
-            {day: 'Friday'},
-            {theme: 'When a Loved One Dies!'},
-            {ref: '- wp19 No. 2 pp. 6-7'},
-            {overseers: 'R Santiago / W Davies'},
-            {link: 'https://www.jw.org/en/library/magazines/watchtower-no2-2019-may-jun/when-your-loved-one-dies/'},
-
-            {day: 'Saturday'},
-            {theme: ''},
-            {ref: ''},
-            {overseers: 'T Boland Jr'},
-            {link: ''}
-        ],
-        wk2:  [
-            {week: '08/01'},
-            {topic: 'Offering Bible Studies'},
-
-            {day: 'Monday'},
-            {theme: 'What Is a Bible Study?'},
-            {ref: '- jw.org > About Us > FAQ'},
+            {theme: 'Awaken Their Curiosity'},
+            {ref: "- km 12/04 p.8 pp 1-3"},
             {overseers: 'D Grant / D Griffiths'},
-            {link: 'https://www.jw.org/en/jehovahs-witnesses/faq/what-is-a-bible-study/'},
- 
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/202004451?q=witnessing+relatives&p=par'} ,
+
             {day: 'Wednesday'},
-            {theme: 'Why Study the Bible?'},
-            {ref: '- wp 2015 04/01 | Cover Subject'},
+            {theme: 'Be Descerning'},
+            {ref: '- km 12/04 p.8 pp 4-5'},
             {overseers: 'S Baccas / H Neal'},
-            {link: 'https://www.jw.org/en/library/magazines/wp20150401/why-study-bible/'},
-  
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/202004451?q=witnessing+relatives&p=par#h=11'},
+
             {day: 'Friday'},
-            {theme: "Must I Become One of JW's if I Study With Them?"},
-            {ref: '- jw.org > About Us > FAQ'},
-            {overseers: 'P Wu / C Yalley'},
-            {link: 'https://www.jw.org/en/jehovahs-witnesses/faq/jw-bible-study/'},
-      
+            {theme: 'Be Respectful, Not Impatient'},
+            {ref: 'km 2/97 p.1 pp 5-6'},
+            {overseers: 'P Wu / W Davies'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/201997041#h=6'},
+
             {day: 'Saturday'},
             {theme: ''},
             {ref: ''},
             {overseers: 'D Moore'},
             {link: ''}
         ],
-        wk3: [
+        wk2:  [
             {week: '15/01'},
-            {topic: 'Why Believe in God?'},
+            {topic: 'MEMORIAL: Assisting Others'},
 
             {day: 'Monday'},
-            {theme: 'Does God Exist?'},
-            {ref: '- ijwbq article 78'},
-            {overseers: 'A Osafo / D Griffiths'},
-            {link: 'https://www.jw.org/en/bible-teachings/questions/does-god-exist/'} ,
+            {theme: 'Assisting Older Ones in The Ministry'},
+            {ref: '- w16 January p.15 pp 12-14'},
+            {overseers: 'A Osafo / T Boland (Jnr)'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2016043#h=42'},
+ 
+            {day: 'Wednesday'},
+            {theme: 'Assisting Others in The Congregation'},
+            {ref: '- km 3/01 p. 4-5 pp 14, 15'},
+            {overseers: 'S Baccas / H Neal'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/202001082#h=15'},
+  
+            {day: 'Friday'},
+            {theme: "Assisting Those That Attend The Memorial"},
+            {ref: '- km 3/08 p. 4 pp 2-4'},
+            {overseers: 'R Santiago / C Yalley'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/202008085#h=3'},
+      
+            {day: 'Saturday'},
+            {theme: ''},
+            {ref: ''},
+            {overseers: 'S Baccas'},
+            {link: ''}
+        ],
+        wk3: [
+            {week: '15/01'},
+            {topic: 'MEMORIAL: Qualities of Jesus'},
+
+            {day: 'Monday'},
+            {theme: 'Jesus is Humble'},
+            {ref: '- w19 January p. 20-22 pp 3-6'},
+            {overseers: 'D Grant / D Moore'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2019245#h=8'} ,
 
             {day: 'Wednesday'},
-            {theme: 'Is Belief in God Reasonable?'},
-            {ref: '- g 2010 02'},
+            {theme: 'Jesus is Courageous'},
+            {ref: '- w19 January p. 22-24 pp 7-12'},
             {overseers: 'S Baccas / H Neal'},
-            {link: 'https://www.jw.org/en/library/magazines/g201002/Is-Belief-in-God-Reasonable/'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2019245#h=13'},
 
             {day: 'Friday'},
-            {theme: 'How Can You Know God Personally?'},
-            {ref: "- jw.org ><br>Bible Teachings > Q's Answered"},
-            {overseers: 'R Santiago/ C Yalley'},
-            {link: 'https://www.jw.org/en/bible-teachings/questions/knowing-god-personally-get-closer/'},
+            {theme: 'Jesus is Loving'},
+            {ref: "- w19 January p. 24-25 pp 13-17"},
+            {overseers: 'P Wu / W Davies'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2019245#h=20'},
 
             {day: 'Saturday'},
             {theme: ''},
             {ref: ''},
-            {overseers: 'D Grant'},
+            {overseers: 'D Griffiths'},
             {link: ''}
         ],
         wk4:  [
             {week: '22/01'},
-            {topic: 'Bible Questions Answered'},
+            {topic: 'MEMORIAL: Qualities of Jehovah'},
 
             {day: 'Monday'},
-            {theme: 'Peace on Earth—How Will It Come?'},
-            {ref: "- jw.org ><br>Bible Teachings > Q's Answered"},
-            {overseers: 'D Grant / D Moore'},
-            {link: 'https://www.jw.org/en/bible-teachings/questions/peace-on-earth-how/'},
+            {theme: 'Jehovah is Merciful'},
+            {ref: "- jd Chp 11 p. 142-143 pp 6-7"},
+            {overseers: 'D Grant / A Osafo'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/1102006154#h=9'},
  
             {day: 'Wednesday'},
-            {theme: 'What Is the Meaning of Life?'},
-            {ref: "- jw.org ><br>Bible Teachings > Q's Answered"},
-            {overseers: 'S Baccas H Neal'},
-            {link: 'https://www.jw.org/en/bible-teachings/questions/meaning-of-life/'},
+            {theme: 'Jehovah is Patient'},
+            {ref: "- w20 Sep p. 10-12 pp 8-14"},
+            {overseers: 'S Baccas / H Neal'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2020561?q=jehovah+pati%2A+ministry&p=par#h=14'},
   
             {day: 'Friday'},
-            {theme: 'What Does the Bible Say About Pandemics?'},
-            {ref: "- jw.org ><br>Bible Teachings > Q's Answered"},
+            {theme: 'Jehovah is Kind'},
+            {ref: "- w16 July p.26  pp 1-3"},
             {overseers: 'P Wu / T Boland Jr'},
-            {link: 'https://www.jw.org/en/bible-teachings/questions/bible-about-pandemics-disease/'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2016523'},
       
             {day: 'Saturday'},
             {theme: ''},
