@@ -237,8 +237,8 @@ for (x = 0; x < 4; x++) {
 
 main.innerHTML += `
 <div class="monday mb-60">
-            <a href="img/current-month.pdf" style='color: white'><p>Sunday</p></a>
-            <a href="img/current-month.pdf" style='color: white'><span style='font-size: 1rem; display:block'>Group Overseers</span></a>
+            <a href="https://forms.gle/5yoZA8ZGzx6EW8bA6" style='color: white'><p>Sunday</p></a>
+            <a href="https://forms.gle/5yoZA8ZGzx6EW8bA6" style='color: white'><span style='font-size: 1rem; display:block'>Group Overseers</span></a>
         </div>`
       
 });
@@ -293,7 +293,7 @@ dates.forEach((weekNumber, w)=>{
         <em>${data[weekArr[w]][19].ref}</em>
         <footer>${data[weekArr[w]][20].overseers}</footer>
     </div>
-        <a href="img/current-month.pdf" class='combined bg-orange'>
+        <a href="https://forms.gle/5yoZA8ZGzx6EW8bA6" class='combined bg-orange'>
           
         </a>`
 });
