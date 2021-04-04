@@ -140,13 +140,13 @@ const data = {
             {day: 'Friday'},
             {theme: 'Who Go to Heaven?'},
             {ref: "- ijwbq article 116"},
-            {overseers: 'P Wu / T Boland Jr'},
+            {overseers: 'C Yalley / T Boland Jr'},
             {link: 'https://www.jw.org/en/bible-teachings/questions/go-to-heaven/'},
       
             {day: 'Saturday'},
             {theme: ''},
             {ref: ''},
-            {overseers: 'C Yalley'},
+            {overseers: 'P Wu'},
             {link: ''}
         ],
         wk5:  [
