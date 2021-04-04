@@ -23,11 +23,11 @@ let mq = window.matchMedia('(min-width: 920px)');
 
 const heading = [
     {month: "april 2021"},
-    {text: '"Keep doing this in remembrance of me." - Luke 22:19'}
+    {text: '"Let each one of you be baptized." - Acts 2:38'}
 ];
 // DATES - The number of date entries dictates the number of weeks looped! 
 const dates = [
-    '08/03','15/03','22/03','29/03'
+    '05/04','12/04','19/04','26/04'
 ];
 
 // const info = [
@@ -38,26 +38,26 @@ const dates = [
 const data = {
         
         wk1: [
-            {week: '08/03'},
-            {topic: 'MEMORIALS: Inviting Relatives'},
+            {week: '05/04'},
+            {topic: 'Enjoy Life Forever!'},
 
             {day: 'Monday'},
-            {theme: 'Awaken Their Curiosity'},
-            {ref: "- km 12/04 p.8 pp 1-3"},
-            {overseers: 'D Grant / D Griffiths'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/202004451?q=witnessing+relatives&p=par'} ,
+            {theme: 'Help Your Student Set Goals'},
+            {ref: "- w21 June p.3 para 4"},
+            {overseers: 'A Osafo / D Grant'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2021440#h=10'} ,
 
             {day: 'Wednesday'},
-            {theme: 'Be Descerning'},
-            {ref: '- km 12/04 p.8 pp 4-5'},
+            {theme: 'Help Your Student To Make Lifestyle Changes.'},
+            {ref: '- w21 June p. 3-4 para 5-7'},
             {overseers: 'S Baccas / H Neal'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/202004451?q=witnessing+relatives&p=par#h=11'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2021440#h=11'},
 
             {day: 'Friday'},
-            {theme: 'Be Respectful, Not Impatient'},
-            {ref: 'km 2/97 p.1 pp 5-6'},
+            {theme: 'Help Your Student Come To Love Jehovah'},
+            {ref: '- w21 June p. 4 para 8'},
             {overseers: 'P Wu / W Davies'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/201997041#h=6'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2021440#h=43'},
 
             {day: 'Saturday'},
             {theme: ''},
