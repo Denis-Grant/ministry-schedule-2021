@@ -66,26 +66,26 @@ const data = {
             {link: ''}
         ],
         wk2:  [
-            {week: '15/01'},
-            {topic: 'MEMORIAL: Assisting Others'},
+            {week: '12/04'},
+            {topic: 'The End of The World!'},
 
             {day: 'Monday'},
-            {theme: 'Assisting Older Ones in The Ministry'},
-            {ref: '- w16 January p.15 pp 12-14'},
+            {theme: 'Will The Earth Be Burned Up?'},
+            {ref: '- w13 1/1 p.5 para 4-8'},
             {overseers: 'A Osafo / T Boland (Jnr)'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2016043#h=42'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2013003#h=6'},
  
             {day: 'Wednesday'},
-            {theme: 'Assisting Others in The Congregation'},
-            {ref: '- km 3/01 p. 4-5 pp 14, 15'},
-            {overseers: 'S Baccas / H Neal'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/202001082#h=15'},
+            {theme: 'What Happens At The End Of The World?'},
+            {ref: '- w13 1/1 p.5 para 9-13'},
+            {overseers: 'S Baccas / D Grant'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2013003#h=12'},
   
             {day: 'Friday'},
-            {theme: "Assisting Those That Attend The Memorial"},
-            {ref: '- km 3/08 p. 4 pp 2-4'},
+            {theme: "Is The End Of The World Really Near?"},
+            {ref: '- w13 1/1 p.5 para 14-17'},
             {overseers: 'R Santiago / C Yalley'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/202008085#h=3'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2013003#h=23'},
       
             {day: 'Saturday'},
             {theme: ''},
@@ -94,26 +94,26 @@ const data = {
             {link: ''}
         ],
         wk3: [
-            {week: '15/01'},
-            {topic: 'MEMORIAL: Qualities of Jesus'},
+            {week: '19/04'},
+            {topic: 'Enjoy Life Forever! Pt 2'},
 
             {day: 'Monday'},
-            {theme: 'Jesus is Humble'},
-            {ref: '- w19 January p. 20-22 pp 3-6'},
+            {theme: 'Develop A Friendship With Your Student.'},
+            {ref: '- w21 June p. 5-6 para 10,11'},
             {overseers: 'D Grant / D Moore'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2019245#h=8'} ,
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2021440#h=45'} ,
 
             {day: 'Wednesday'},
-            {theme: 'Jesus is Courageous'},
-            {ref: '- w19 January p. 22-24 pp 7-12'},
+            {theme: 'Help Your Student to Widen Out'},
+            {ref: '- w21 June p. 6  para 12-14'},
             {overseers: 'S Baccas / H Neal'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2019245#h=13'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2021440#h=47'},
 
             {day: 'Friday'},
-            {theme: 'Jesus is Loving'},
-            {ref: "- w19 January p. 24-25 pp 13-17"},
+            {theme: 'Train Your Student To Share His Faith'},
+            {ref: "- w21 June p. 6-7  para 16"},
             {overseers: 'P Wu / W Davies'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2019245#h=20'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2021440#h=51'},
 
             {day: 'Saturday'},
             {theme: ''},
@@ -122,8 +122,8 @@ const data = {
             {link: ''}
         ],
         wk4:  [
-            {week: '22/01'},
-            {topic: 'MEMORIAL: Qualities of Jehovah'},
+            {week: '26/04'},
+            {topic: 'The End of The World!'},
 
             {day: 'Monday'},
             {theme: 'Jehovah is Merciful'},
