@@ -39,7 +39,7 @@ const data = {
         
         wk1: [
             {week: '08/03'},
-            {topic: 'MEMORIAL: Inviting Relatives'},
+            {topic: 'MEMORIALS: Inviting Relatives'},
 
             {day: 'Monday'},
             {theme: 'Awaken Their Curiosity'},
