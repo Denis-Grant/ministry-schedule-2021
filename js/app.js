@@ -22,7 +22,7 @@ let mq = window.matchMedia('(min-width: 920px)');
 
 
 const heading = [
-    {month: "march 2021"},
+    {month: "april 2021"},
     {text: '"Keep doing this in remembrance of me." - Luke 22:19'}
 ];
 // DATES - The number of date entries dictates the number of weeks looped! 
