@@ -56,7 +56,7 @@ const data = {
             {day: 'Friday'},
             {theme: 'Help Your Student Come To Love Jehovah'},
             {ref: '- w21 June p. 4 para 8'},
-            {overseers: 'P Wu / W Davies'},
+            {overseers: 'P Wu / D Griffiths'},
             {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2021440#h=43'},
 
             {day: 'Saturday'},
@@ -72,13 +72,13 @@ const data = {
             {day: 'Monday'},
             {theme: 'Will The Earth Be Burned Up?'},
             {ref: '- w13 1/1 p.5 para 4-8'},
-            {overseers: 'A Osafo / T Boland (Jnr)'},
+            {overseers: 'D Grant / T Boland (Jnr)'},
             {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2013003#h=6'},
  
             {day: 'Wednesday'},
             {theme: 'What Happens At The End Of The World?'},
             {ref: '- w13 1/1 p.5 para 9-13'},
-            {overseers: 'S Baccas / D Grant'},
+            {overseers: 'S Baccas / P Wu'},
             {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2013003#h=12'},
   
             {day: 'Friday'},
@@ -90,7 +90,7 @@ const data = {
             {day: 'Saturday'},
             {theme: ''},
             {ref: ''},
-            {overseers: 'S Baccas'},
+            {overseers: 'D Grant'},
             {link: ''}
         ],
         wk3: [
@@ -100,7 +100,7 @@ const data = {
             {day: 'Monday'},
             {theme: 'Develop A Friendship With Your Student.'},
             {ref: '- w21 June p. 5-6 para 10,11'},
-            {overseers: 'D Grant / D Moore'},
+            {overseers: 'A Osafo / D Moore'},
             {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2021440#h=45'} ,
 
             {day: 'Wednesday'},
@@ -118,7 +118,7 @@ const data = {
             {day: 'Saturday'},
             {theme: ''},
             {ref: ''},
-            {overseers: 'Chris Burgess'},
+            {overseers: 'Chris Burgess - Bethel Speaker'},
             {link: ''}
         ],
         wk4:  [
@@ -128,7 +128,7 @@ const data = {
             {day: 'Monday'},
             {theme: 'Will God Help Me if I Pray?'},
             {ref: "- ijwbq article 26"},
-            {overseers: 'D Grant / A Osafo'},
+            {overseers: 'D Grant / D Griffiths'},
             {link: 'https://www.jw.org/en/bible-teachings/questions/will-god-help-me-if-i-pray/'},
  
             {day: 'Wednesday'},
