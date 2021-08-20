@@ -22,12 +22,12 @@ let mq = window.matchMedia('(min-width: 920px)');
 
 
 const heading = [
-    {month: "april 2021"},
-    {text: '"Let each one of you be baptized." - Acts 2:38'}
+    {month: "august 2021"},
+    {text: '"Give us more faith." - Luke 17:5'}
 ];
 // DATES - The number of date entries dictates the number of weeks looped! 
 const dates = [
-    '05/04','12/04','19/04','26/04'
+    '02/08','09/08','16/08','23/08','30/08'
 ];
 
 // const info = [
@@ -38,143 +38,143 @@ const dates = [
 const data = {
         
         wk1: [
-            {week: '05/04'},
-            {topic: 'Enjoy Life Forever!'},
+            {week: '02/08'},
+            {topic: 'Improving Our Skills in the Ministry'},
 
             {day: 'Monday'},
-            {theme: 'Help Your Student Set Goals'},
-            {ref: "- w21 June p.3 para 4"},
-            {overseers: 'A Osafo / D Grant'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2021440#h=10'} ,
+            {theme: 'Being Adaptable'},
+            {ref: "-mwb19 December p. 7"},
+            {overseers: 'D Grant/ D Griffiths'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/202019453'} ,
 
             {day: 'Wednesday'},
-            {theme: 'Help Your Student To Make Lifestyle Changes.'},
-            {ref: '- w21 June p. 3-4 para 5-7'},
-            {overseers: 'S Baccas / H Neal'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2021440#h=11'},
+            {theme: 'Helping “Rightly Disposed” Ones to Become Disciples'},
+            {ref: '--mwb18 December p. 8'},
+            {overseers: 'S Baccas / P Wu'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/202018447#h=1:0-19:0'},
 
             {day: 'Friday'},
-            {theme: 'Help Your Student Come To Love Jehovah'},
-            {ref: '- w21 June p. 4 para 8'},
-            {overseers: 'P Wu / D Griffiths'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2021440#h=43'},
+            {theme: 'Building Your Own Presentation'},
+            {ref: '-mwb16 March p. 8'},
+            {overseers: 'R Santiago / D Moore'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/202016092'},
 
             {day: 'Saturday'},
             {theme: ''},
             {ref: ''},
-            {overseers: 'D Moore'},
+            {overseers: 'S Baccas'},
             {link: ''}
         ],
         wk2:  [
-            {week: '12/04'},
-            {topic: 'The End of The World!'},
+            {week: '09/08'},
+            {topic: 'Convention'},
 
             {day: 'Monday'},
-            {theme: 'Will The Earth Be Burned Up?'},
-            {ref: '- w13 1/1 p.5 para 4-8'},
-            {overseers: 'D Grant / T Boland (Jnr)'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2013003#h=6'},
+            {theme: 'Sunday Morning (Program)'},
+            {ref: '-CO-pgm21 pp. 6-7'},
+            {overseers: 'W Davies / T Boland Jr'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/1102021197'},
  
             {day: 'Wednesday'},
-            {theme: 'What Happens At The End Of The World?'},
-            {ref: '- w13 1/1 p.5 para 9-13'},
-            {overseers: 'S Baccas / P Wu'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2013003#h=12'},
+            {theme: 'Converse With Your Preaching Partner'},
+            {ref: '-w15 2/15 pp. 15-18 para 8,9'},
+            {overseers: 'S Baccas / D Grant'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2015123#h=10'},
   
             {day: 'Friday'},
-            {theme: "Is The End Of The World Really Near?"},
-            {ref: '- w13 1/1 p.5 para 14-17'},
-            {overseers: 'R Santiago / C Yalley'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2013003#h=23'},
+            {theme: "“Speak the Word of God Fearlessly”"},
+            {ref: '-km 4/07 p. 1'},
+            {overseers: 'P Wu / C Yalley'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/202007121'},
       
             {day: 'Saturday'},
             {theme: ''},
             {ref: ''},
-            {overseers: 'D Grant'},
+            {overseers: '* CONVENTION *'},
             {link: ''}
         ],
         wk3: [
-            {week: '19/04'},
-            {topic: 'Enjoy Life Forever! Pt 2'},
+            {week: '16/08'},
+            {topic: 'Convention'},
 
             {day: 'Monday'},
-            {theme: 'Develop A Friendship With Your Student.'},
-            {ref: '- w21 June p. 5-6 para 10,11'},
-            {overseers: 'A Osafo / D Moore'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2021440#h=45'} ,
+            {theme: 'Sunday Afternoon (Program)'},
+            {ref: '-CO-pgm21 pp. 6-7'},
+            {overseers: 'D Grant / D Moore'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/1102021197'} ,
 
             {day: 'Wednesday'},
-            {theme: 'Help Your Student to Widen Out'},
-            {ref: '- w21 June p. 6  para 12-14'},
-            {overseers: 'S Baccas / H Neal'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2021440#h=47'},
+            {theme: 'Learn From Jesus’ Example'},
+            {ref: '-w05 1/1 pp. 12-17 para 22-24'},
+            {overseers: 'S Baccas / P Wu'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2005003#h=30'},
 
             {day: 'Friday'},
-            {theme: 'Train Your Student To Share His Faith'},
-            {ref: "- w21 June p. 6-7  para 16"},
-            {overseers: 'P Wu / W Davies'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2021440#h=51'},
+            {theme: 'Jesus Was Never Off Duty'},
+            {ref: "-w13 10/15 pp. 31 - para 4"},
+            {overseers: 'S Baccas / D Griffiths'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2013768#h=5'},
 
             {day: 'Saturday'},
             {theme: ''},
             {ref: ''},
-            {overseers: 'Chris Burgess - Bethel Speaker'},
+            {overseers: '* CONVENTION *'},
             {link: ''}
         ],
         wk4:  [
-            {week: '26/04'},
-            {topic: 'Bible Questions Answered'},
+            {week: '23/08'},
+            {topic: 'Fully Accomplish Your Ministry'},
 
             {day: 'Monday'},
-            {theme: 'Will God Help Me if I Pray?'},
-            {ref: "- ijwbq article 26"},
-            {overseers: 'D Grant / D Griffiths'},
-            {link: 'https://www.jw.org/en/bible-teachings/questions/will-god-help-me-if-i-pray/'},
+            {theme: 'Are You Willing To Try A Different Method?'},
+            {ref: "-w16 August pp. 24 BOX"},
+            {overseers: 'W Davies / T Boland Jr'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2016608#h=49},
  
             {day: 'Wednesday'},
-            {theme: 'Is Our Time to Die Predetermined?'},
-            {ref: "- ijwbq article 80"},
-            {overseers: 'S Baccas / H Neal'},
-            {link: 'https://www.jw.org/en/bible-teachings/questions/time-to-die/'},
+            {theme: 'Meeting the Challenge of Apathy'},
+            {ref: "-w88 7/15 p.19 para 15-17"},
+            {overseers: 'S Baccas / D Grant'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/1988524#h=20'},
   
             {day: 'Friday'},
-            {theme: 'Who Go to Heaven?'},
-            {ref: "- ijwbq article 116"},
-            {overseers: 'C Yalley / T Boland Jr'},
-            {link: 'https://www.jw.org/en/bible-teachings/questions/go-to-heaven/'},
+            {theme: 'Overcoming Challenges'},
+            {ref: "-w21 July p.6 para 14"},
+            {overseers: 'P Wu / R Santiago'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2021480#h=22'},
       
             {day: 'Saturday'},
             {theme: ''},
             {ref: ''},
-            {overseers: 'P Wu'},
+            {overseers: 'A Osafo'},
             {link: ''}
         ],
         wk5:  [
-            {week: '25/01'},
-            {topic: 'The Bible'},
+            {week: '30/08'},
+            {topic: 'Enjoy Life Forever'},
 
             {day: 'Monday'},
-            {theme: 'Bible Teachings​—Timeless Wisdom!'},
-            {ref: '- wp18 No. 1 pp. 4-7'},
-            {overseers: 'W Davies / D Grant'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2018019'},
+            {theme: 'What Is Jehovah Like?'},
+            {ref: '-lff lesson 7 para 1-3'},
+            {overseers: 'D Grant / D Griffiths'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/1102021207'},
  
             {day: 'Wednesday'},
-            {theme: 'Outdated or Ahead of Its Time?'},
-            {ref: '- wp18 No. 1 pp. 6-7'},
-            {overseers: 'S Baccas H Neal'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2018029'},
+            {theme: 'How You Can Get the Most Out of the Bible'},
+            {ref: '-lff lesson 11  para 1-3'},
+            {overseers: 'S Baccas / P Wu'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/1102021211'},
   
             {day: 'Friday'},
-            {theme: 'The Bible and Your Future!'},
-            {ref: '- wp18 No. 1 pp. 14-15'},
-            {overseers: 'W Davies / D Moore'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2018023'},
+            {theme: 'Draw Close to God Through Prayer'},
+            {ref: '-lff lesson 9  para 1-3'},
+            {overseers: 'D Grant / D Moore'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/1102021209'},
       
             {day: 'Saturday'},
             {theme: ''},
             {ref: ''},
-            {overseers: 'R Santiago'},
+            {overseers: 'C Yalley'},
             {link: ''}
         ]
 
