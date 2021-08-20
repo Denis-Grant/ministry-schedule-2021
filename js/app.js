@@ -129,7 +129,7 @@ const data = {
             {theme: 'Are You Willing To Try A Different Method?'},
             {ref: "-w16 August pp. 24 BOX"},
             {overseers: 'W Davies / T Boland Jr'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2016608#h=49},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2016608#h=49'},
  
             {day: 'Wednesday'},
             {theme: 'Meeting the Challenge of Apathy'},
