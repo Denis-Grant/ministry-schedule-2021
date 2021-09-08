@@ -90,7 +90,7 @@ const data = {
             {day: 'Saturday'},
             {theme: ''},
             {ref: ''},
-            {overseers: 'R Santiago'},
+            {overseers: 'D Grant'},
             {link: ''}
         ],
         wk3: [
