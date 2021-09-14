@@ -78,13 +78,13 @@ const data = {
             {day: 'Wednesday'},
             {theme: 'How Do You View the Future?'},
             {ref: '-T-31 pp. 1-4'},
-            {overseers: 'S Baccas / D Grant'},
+            {overseers: 'S Baccas / P Wu'},
             {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/1102012770'},
   
             {day: 'Friday'},
             {theme: "What Is the Key to Happy Family Life?"},
             {ref: '-T-32 pp. 1-4'},
-            {overseers: 'P Wu / C Yalley'},
+            {overseers: 'D Grant / C Yalley'},
             {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/1102013390'},
       
             {day: 'Saturday'},
