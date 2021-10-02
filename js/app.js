@@ -22,12 +22,12 @@ let mq = window.matchMedia('(min-width: 920px)');
 
 
 const heading = [
-    {month: "september 2021"},
+    {month: "October 2021"},
     {text: '"Make disciples of people of all the nations...teaching them" - Matt. 28:19'}
 ];
 // DATES - The number of date entries dictates the number of weeks looped! 
 const dates = [
-    '06/09','13/09','20/09','27/09'
+    '04/10','11/10','18/10','25/10'
 ];
 
 // const info = [
@@ -38,115 +38,115 @@ const dates = [
 const data = {
         
         wk1: [
-            {week: '06/09'},
-            {topic: 'Apply Yourself to Teaching'},
+            {week: '04/10'},
+            {topic: 'Tools to Teach the Truth'},
 
             {day: 'Monday'},
-            {theme: 'Illustrations That Teach'},
-            {ref: "-th study 8 p. 11"},
+            {theme: 'The Watchtower and Awake!'},
+            {ref: "-w18 October p.14 para 11,12"},
             {overseers: 'D Grant/ D Griffiths'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/1102018448'} ,
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2018604#h=21'} ,
 
             {day: 'Wednesday'},
-            {theme: 'Warmth and Empathy'},
-            {ref: '-th study 12 p. 15'},
+            {theme: 'Tracts'},
+            {ref: '-w18 October p.13-14 para 9,10'},
             {overseers: 'S Baccas / P Wu'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/1102018452'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2018604#h=18'},
 
             {day: 'Friday'},
-            {theme: 'Use of Questions'},
-            {ref: '-th study 3 p. 6'},
+            {theme: 'Videos'},
+            {ref: '-w18 October p.14-15 para 14,15'},
             {overseers: 'R Santiago / D Moore'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/1102018443'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2018604#h=25'},
 
             {day: 'Saturday'},
             {theme: ''},
             {ref: ''},
-            {overseers: 'A Osafo'},
+            {overseers: 'C Yalley'},
             {link: ''}
         ],
         wk2:  [
-            {week: '13/09'},
-            {topic: 'Teaching Toolbox'},
+            {week: '11/10'},
+            {topic: 'Letter Writing'},
 
             {day: 'Monday'},
-            {theme: 'Who Really Controls the World?'},
-            {ref: '-T-33 pp. 1-4'},
-            {overseers: 'W Davies / H Neal'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/1102013400'},
+            {theme: 'Upbuilding and Positive'},
+            {ref: '-th study 16 p. 19'},
+            {overseers: 'A Osafo / B Davies'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/1102018456'},
  
             {day: 'Wednesday'},
-            {theme: 'How Do You View the Future?'},
-            {ref: '-T-31 pp. 1-4'},
+            {theme: 'Practical Value Made Clear'},
+            {ref: '-th study 13 p. 16'},
             {overseers: 'S Baccas / P Wu'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/1102012770'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/1102018453'},
   
             {day: 'Friday'},
-            {theme: "What Is the Key to Happy Family Life?"},
-            {ref: '-T-32 pp. 1-4'},
-            {overseers: 'D Grant / C Yalley'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/1102013390'},
+            {theme: "Effective Conclusion"},
+            {ref: '-th study 20 p. 23'},
+            {overseers: 'R Santiago / T Boland Jr'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/1102018460'},
+      
+            {day: 'Saturday'},
+            {theme: 'CIRCUIT ASSEMBLY'},
+            {ref: ''},
+            {overseers: ''},
+            {link: ''}
+        ],
+        wk3: [
+            {week: '18/10'},
+            {topic: 'Bible Questions Answered'},
+
+            {day: 'Monday'},
+            {theme: 'Understanding the Bible'},
+            {ref: '-ijwbq article 40'},
+            {overseers: 'D Grant / D Moore'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/502013148'} ,
+
+            {day: 'Wednesday'},
+            {theme: 'Does Science Agree With the Bible?'},
+            {ref: '-ijwbq article 82'},
+            {overseers: 'S Baccas / P Wu'},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/502014236'},
+
+            {day: 'Friday'},
+            {theme: "Can the Bible Help Me if I’m Depressed?"},
+            {ref: "-ijwbq article 32"},
+            {overseers: 'R Santiago / C Yalley '},
+            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/502013104'},
+
+            {day: 'Saturday'},
+            {theme: ''},
+            {ref: ''},
+            {overseers: 'D Griffiths'},
+            {link: ''}
+        ],
+        wk4:  [
+            {week: '25/10'},
+            {topic: 'Using Enjoy Life Forever!'},
+
+            {day: 'Monday'},
+            {theme: 'Transferring A Student From Another Publication'},
+            {ref: "S-196 - Para 1-3"},
+            {overseers: 'A Osafo / T Boland Jr'},
+            {link: ''},
+ 
+            {day: 'Wednesday'},
+            {theme: 'Offering A Bible Study Course'},
+            {ref: "S-196 - Para 4-5"},
+            {overseers: 'S Baccas / H Neal'},
+            {link: ''},
+  
+            {day: 'Friday'},
+            {theme: 'Conducting A Bible Study'},
+            {ref: "s-196 - Para 6-10"},
+            {overseers: 'P Wu / R Santiago'},
+            {link: ''},
       
             {day: 'Saturday'},
             {theme: ''},
             {ref: ''},
             {overseers: 'D Grant'},
-            {link: ''}
-        ],
-        wk3: [
-            {week: '20/09'},
-            {topic: 'Circuit Overseer Visit'},
-
-            {day: 'Monday'},
-            {theme: 'Will Suffering Ever End'},
-            {ref: '-T-34 pp. 1-4'},
-            {overseers: 'D Grant / D Moore'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/1102013410'} ,
-
-            {day: 'Wednesday'},
-            {theme: ''},
-            {ref: ''},
-            {overseers: ''},
-            {link: ''},
-
-            {day: 'Friday'},
-            {theme: ''},
-            {ref: ""},
-            {overseers: ''},
-            {link: ''},
-
-            {day: 'Saturday'},
-            {theme: ''},
-            {ref: ''},
-            {overseers: ''},
-            {link: ''}
-        ],
-        wk4:  [
-            {week: '27/09'},
-            {topic: 'Making Good Use of Videos'},
-
-            {day: 'Monday'},
-            {theme: 'God Does Not Approve of All Religions'},
-            {ref: "-lff lesson 13 - section 5"},
-            {overseers: 'D Grant / T Boland Jr'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/1102021213#h=12'},
- 
-            {day: 'Wednesday'},
-            {theme: 'Human Rule Must be Replaced'},
-            {ref: "-lff lesson 31 - section 5"},
-            {overseers: 'S Baccas / A Osafo'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/1102021231#h=18'},
-  
-            {day: 'Friday'},
-            {theme: 'God Has Requirements for Prayer'},
-            {ref: "-lff lesson 9 section 4"},
-            {overseers: 'P Wu / R Santiago'},
-            {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/1102021209#h=13'},
-      
-            {day: 'Saturday'},
-            {theme: ''},
-            {ref: ''},
-            {overseers: 'H Neal'},
             {link: ''}
         ],
         wk5:  [
