@@ -78,7 +78,7 @@ const data = {
             {day: 'Wednesday'},
             {theme: 'Practical Value Made Clear'},
             {ref: '-th study 13 p. 16'},
-            {overseers: 'S Baccas / P Wu'},
+            {overseers: 'S Baccas / H Neal'},
             {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/1102018453'},
   
             {day: 'Friday'},
