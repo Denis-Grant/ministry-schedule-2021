@@ -23,7 +23,7 @@ let mq = window.matchMedia('(min-width: 920px)');
 
 const heading = [
     {month: "October 2021"},
-    {text: '"Make disciples of people of all the nations...teaching them" - Matt. 28:19'}
+    {text: '“I tell you, if these remained silent, the stones would cry out.” - Luke 19:40'}
 ];
 // DATES - The number of date entries dictates the number of weeks looped! 
 const dates = [
