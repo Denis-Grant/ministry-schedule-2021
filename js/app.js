@@ -88,9 +88,9 @@ const data = {
             {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/1102018460'},
       
             {day: 'Saturday'},
-            {theme: 'CIRCUIT ASSEMBLY'},
+            {theme: ''},
             {ref: ''},
-            {overseers: ''},
+            {overseers: 'CIRCUIT ASSEMBLY'},
             {link: ''}
         ],
         wk3: [
