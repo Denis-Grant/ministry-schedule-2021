@@ -43,7 +43,7 @@ const data = {
 
             {day: 'Monday'},
             {theme: 'The Watchtower and Awake!'},
-            {ref: "-w18 October p.14 para 11,12"},
+            {ref: "-w18 October p.14 para 11-13"},
             {overseers: 'D Grant/ D Griffiths'},
             {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2018604#h=21'} ,
 
