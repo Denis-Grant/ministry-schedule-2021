@@ -72,7 +72,7 @@ const data = {
             {day: 'Monday'},
             {theme: 'Upbuilding and Positive'},
             {ref: '-th study 16 p. 19'},
-            {overseers: 'A Osafo / B Davies'},
+            {overseers: 'A Osafo / W Davies'},
             {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/1102018456'},
  
             {day: 'Wednesday'},
