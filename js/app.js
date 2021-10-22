@@ -134,13 +134,13 @@ const data = {
             {day: 'Wednesday'},
             {theme: 'Offering A Bible Study Course'},
             {ref: "S-196 - Para 4-5"},
-            {overseers: 'S Baccas / H Neal'},
+            {overseers: 'S Baccas / D Grant'},
             {link: ''},
   
             {day: 'Friday'},
             {theme: 'Conducting A Bible Study'},
             {ref: "s-196 - Para 6-10"},
-            {overseers: 'P Wu / R Santiago'},
+            {overseers: 'P Wu / D Moore'},
             {link: ''},
       
             {day: 'Saturday'},
