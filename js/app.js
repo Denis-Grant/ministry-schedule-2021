@@ -128,7 +128,7 @@ const data = {
             {day: 'Monday'},
             {theme: 'Transferring A Student From Another Publication'},
             {ref: "S-196 - Para 1-3"},
-            {overseers: 'A Osafo / T Boland Jr'},
+            {overseers: 'A Osafo / D Grant'},
             {link: ''},
  
             {day: 'Wednesday'},
