@@ -140,7 +140,7 @@ const data = {
             {day: 'Friday'},
             {theme: 'Read God’s Word, The Bible, Daily'},
             {ref: "-wp21 No. 2 p. 12"},
-            {overseers: 'R Santiago / D Moore'},
+            {overseers: 'R Santiago / T Cornwall'},
             {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2021086#h=18'},
       
             {day: 'Saturday'},
@@ -168,7 +168,7 @@ const data = {
             {day: 'Friday'},
             {theme: 'A Help for Telephone Witnessing'},
             {ref: 'km 1/10 pp. 4-6'},
-            {overseers: 'D Grant / T Cornwall'},
+            {overseers: 'D Grant / W Davies'},
             {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/202009451'},
       
             {day: 'Saturday'},
