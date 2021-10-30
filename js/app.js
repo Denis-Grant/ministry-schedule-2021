@@ -140,7 +140,7 @@ const data = {
             {day: 'Friday'},
             {theme: 'Read God’s Word, The Bible, Daily'},
             {ref: "-wp21 No. 2 p. 12"},
-            {overseers: 'R Santiago / T Cornwall'},
+            {overseers: 'R Santiago / D Grant'},
             {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2021086#h=18'},
       
             {day: 'Saturday'},
