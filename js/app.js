@@ -146,7 +146,7 @@ const data = {
             {day: 'Saturday'},
             {theme: ''},
             {ref: ''},
-            {overseers: 'D Moore'},
+            {overseers: 'W Davies'},
             {link: ''}
         ],
         wk5:  [
