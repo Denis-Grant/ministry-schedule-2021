@@ -72,7 +72,7 @@ const data = {
             {day: 'Monday'},
             {theme: 'An End to Human Rulership'},
             {ref: '-wp21 No. 2 p. 6'},
-            {overseers: 'D Grant / W Davies'},
+            {overseers: 'S Baccas / W Davies'},
             {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/2021084#h=16'},
  
             {day: 'Wednesday'},
