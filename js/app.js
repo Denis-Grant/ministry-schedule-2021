@@ -168,7 +168,7 @@ const data = {
             {day: 'Friday'},
             {theme: 'A Help for Telephone Witnessing'},
             {ref: 'km 1/10 pp. 4-6'},
-            {overseers: 'D Grant / W Davies'},
+            {overseers: 'S Baccas / W Davies'},
             {link: 'https://wol.jw.org/en/wol/d/r1/lp-e/202009451'},
       
             {day: 'Saturday'},
